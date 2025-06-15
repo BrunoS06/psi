@@ -1,0 +1,44 @@
+
+body {
+  margin: 0px;
+  font-family: "Numans", sans-serif;
+  background-color:#bcddc570
+}
+
+#cabecalho {
+  display: flex;
+  background-color: white;
+  height: 8rem;
+  border-bottom: solid 1px #558762;
+  padding-top: 1rem;
+  padding-left: 8rem;
+  padding-bottom: 1rem;
+}
+
+#secoes {
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 8rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  width: 40rem;
+  height: 4rem;
+}
+
+#iniciotitulo{
+  display: flex;
+  justify-content: center;
+}
+
+#inicio {
+  display: flex;
+  width: 40rem;
+  padding: 3rem;
+  font-size: 15px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 30px;
+}
